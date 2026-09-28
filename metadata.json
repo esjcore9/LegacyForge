@@ -1,0 +1,6 @@
+{
+  "name": "LegacyForge",
+  "description": "Multi-modal archival restoration suite reviving handwritten recipes, Web 1.0 sites, and legacy source code into modern, usable digital fabric.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
